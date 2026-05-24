@@ -5,3 +5,7 @@ build/
 .gradle/
 
 bin/
+
+# sqlite
+output.json
+user_output.md
